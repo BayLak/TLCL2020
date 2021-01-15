@@ -1,4 +1,4 @@
-# TLCL2020
+# TLCN2020
 Tiểu luận chuyên ngành 
 |____Đề tài: Tìm hiểu Word Embedding cho biểu diễn văn bản
 |____GVHD: Thầy Quách Đình Hoàng
